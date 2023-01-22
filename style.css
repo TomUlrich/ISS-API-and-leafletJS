@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px 80px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+#iss-container {
+  margin: 60px 0 30px 0;
+}
+
+#iss-map {
+  height: 400px;
+}
