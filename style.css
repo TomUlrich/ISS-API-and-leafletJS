@@ -9,6 +9,11 @@ body {
   padding: 40px 80px;
 }
 
+.wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
 h1 {
   font-size: 24px;
 }
