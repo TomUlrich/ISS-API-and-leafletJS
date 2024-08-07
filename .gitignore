@@ -1,0 +1,4 @@
+*.ini
+*.ico
+*.md
+!README.md
